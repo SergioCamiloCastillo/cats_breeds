@@ -6,5 +6,5 @@ export interface BreedEntity {
   adaptability?: number;
   lifeSpan: string;
   description: string;
-  imageUrl?: string;
+  image?: {url: string};
 }
