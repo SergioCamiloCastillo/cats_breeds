@@ -19,6 +19,6 @@ Esta es una aplicación realizada en React Native/TypeScript, con arquitectura l
 2. Instala dependencias
     npm install
 3. Crea en archivo .env, tomando como ejemplo .env.example, con las mismas variables agregandole el API_KEY, que genere el API de "The Cat API"
-4. Correo el proyecto
+4. Correr el proyecto
  * En IOS: npx react native run-ios
  * En Android: npm run android
